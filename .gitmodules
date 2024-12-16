@@ -1,3 +1,6 @@
 [submodule "zkHackV_puzzle1"]
 	path = zkHackV_puzzle1
 	url = git@github.com:alv-around/zkHackV_puzzle1.git
+[submodule "zkHackV_puzzle2"]
+	path = zkHackV_puzzle2
+	url = git@github.com:alv-around/zkHackV_puzzle2.git
